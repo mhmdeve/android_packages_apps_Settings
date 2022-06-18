@@ -1,26 +1,9 @@
-<!--
-    Copyright (C) 2017 The Android Open Source Project
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-         http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0"
-        android:tint="?android:attr/colorControlNormal">
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="48"
+    android:viewportHeight="48"
+    android:width="24dp"
+    android:height="24dp">
     <path
-        android:pathData="M18,17V11C18,7.93 16.37,5.36 13.5,4.68V4C13.5,3.17 12.83,2.5 12,2.5C11.17,2.5 10.5,3.17 10.5,4V4.68C7.64,5.36 6,7.92 6,11V17H4V19H14H14.38H20V17H18ZM16,17H8V11C8,8.52 9.51,6.5 12,6.5C14.49,6.5 16,8.52 16,11V17ZM14,20C14,21.1 13.1,22 12,22C10.9,22 10,21.1 10,20H14Z"
-        android:fillType="evenOdd"
-        android:fillColor="?android:attr/colorPrimary"/>
+        android:pathData="M35 2C28.925 2 24 6.925 24 13C24 19.075 28.925 24 35 24C41.075 24 46 19.075 46 13C46 6.925 41.075 2 35 2zM10.5 7C6.92 7 4 9.92 4 13.5L4 30.5C4 34.08 6.92 37 10.5 37L12 37L12 42.5C12 43.45 12.530859 44.310234 13.380859 44.740234C13.740859 44.910234 14.12 45 14.5 45C15.03 45 15.56 44.83 16 44.5L26 37L37.5 37C41.08 37 44 34.08 44 30.5L44 22.369141C43.09 23.259141 42.07 23.979297 41 24.529297L41 30.5C41 32.43 39.43 34 37.5 34L25.5 34C25.18 34 24.859609 34.110781 24.599609 34.300781L15 41.5L15 35.5C15 34.67 14.33 34 13.5 34L10.5 34C8.57 34 7 32.43 7 30.5L7 13.5C7 11.57 8.57 10 10.5 10L22.349609 10C22.589609 8.97 22.960703 7.96 23.470703 7L10.5 7zM35.916016 7.0039062C36.150625 6.9840781 36.389437 7.0477031 36.585938 7.1894531C36.846938 7.3774531 37 7.679 37 8L37 18C37 18.552 36.553 19 36 19C35.447 19 35 18.552 35 18L35 9.3867188L33.316406 9.9472656C32.788406 10.125266 32.227734 9.8394062 32.052734 9.3164062C31.877734 8.7924062 32.160594 8.2257813 32.683594 8.0507812L35.683594 7.0507812C35.759344 7.0252812 35.837812 7.0105156 35.916016 7.0039062z"
+        android:fillColor="#5B5B5B" />
 </vector>

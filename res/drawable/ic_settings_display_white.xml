@@ -1,25 +1,9 @@
-<!--
-  Copyright (C) 2018 The Android Open Source Project
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
-  -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0">
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="48"
+    android:viewportHeight="48"
+    android:width="24dp"
+    android:height="24dp">
     <path
-        android:pathData="M20.31,9V4.31H15.62L12.31,1L9,4.31H4.31V9L1,12.31L4.31,15.62V20.31H9L12.31,23.62L15.62,20.31H20.31V15.62L23.62,12.31L20.31,9ZM18.31,14.79V18.31H14.79L12.31,20.79L9.83,18.31H6.31V14.79L3.83,12.31L6.31,9.83V6.31H9.83L12.31,3.83L14.79,6.31H18.31V9.83L20.79,12.31L18.31,14.79ZM17.31,12.31C17.31,15.07 15.07,17.31 12.31,17.31V7.31C15.07,7.31 17.31,9.55 17.31,12.31Z"
-        android:fillType="evenOdd"
-        android:fillColor="?android:attr/colorPrimary"/>
+        android:pathData="M23.976562 3.9785156A1.50015 1.50015 0 0 0 22.5 5.5L22.5 8.5A1.50015 1.50015 0 1 0 25.5 8.5L25.5 5.5A1.50015 1.50015 0 0 0 23.976562 3.9785156zM10.902344 9.4042969A1.50015 1.50015 0 0 0 9.8574219 11.980469L11.978516 14.101562A1.5012202 1.5012202 0 0 0 14.101562 11.978516L11.980469 9.8574219A1.50015 1.50015 0 0 0 10.902344 9.4042969zM37.050781 9.4042969A1.50015 1.50015 0 0 0 36.019531 9.8574219L33.898438 11.978516A1.5012202 1.5012202 0 0 0 36.021484 14.101562L38.142578 11.980469A1.50015 1.50015 0 0 0 37.050781 9.4042969zM24 13A11 11 0 0 0 24 35A11 11 0 0 0 24 13zM5.5 22.5A1.50015 1.50015 0 1 0 5.5 25.5L8.5 25.5A1.50015 1.50015 0 1 0 8.5 22.5L5.5 22.5zM39.5 22.5A1.50015 1.50015 0 1 0 39.5 25.5L42.5 25.5A1.50015 1.50015 0 1 0 42.5 22.5L39.5 22.5zM13.009766 33.445312A1.50015 1.50015 0 0 0 11.978516 33.898438L9.8574219 36.019531A1.501221 1.501221 0 1 0 11.980469 38.142578L14.101562 36.021484A1.50015 1.50015 0 0 0 13.009766 33.445312zM34.943359 33.445312A1.50015 1.50015 0 0 0 33.898438 36.021484L36.019531 38.142578A1.5012209 1.5012209 0 1 0 38.142578 36.019531L36.021484 33.898438A1.50015 1.50015 0 0 0 34.943359 33.445312zM23.976562 37.978516A1.50015 1.50015 0 0 0 22.5 39.5L22.5 42.5A1.50015 1.50015 0 1 0 25.5 42.5L25.5 39.5A1.50015 1.50015 0 0 0 23.976562 37.978516z"
+        android:fillColor="#5B5B5B" />
 </vector>

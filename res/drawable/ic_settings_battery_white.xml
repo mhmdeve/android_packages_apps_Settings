@@ -1,28 +1,9 @@
-<!--
-  Copyright (C) 2018 The Android Open Source Project
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
-  -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0">
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="48"
+    android:viewportHeight="48"
+    android:width="24dp"
+    android:height="24dp">
     <path
-        android:pathData="M9.5,4V2H14.5V4H16.67C17.4,4 18,4.6 18,5.33V15V20.67C18,21.4 17.4,22 16.66,22H7.33C6.6,22 6,21.4 6,20.67V15V5.33C6,4.6 6.6,4 7.33,4H9.5ZM8,15V20H16V15V6H8V15Z"
-        android:fillType="evenOdd"
-        android:fillColor="?android:attr/colorPrimary"/>
-    <path
-        android:pathData="M16.67,22H7.33C6.6,22 6,21.4 6,20.67V5.33C6,4.6 6.6,4 7.33,4H16.67C17.4,4 18,4.6 18,5.33V20.67C18,21.4 17.4,22 16.67,22Z"
-        android:fillColor="?android:attr/colorPrimary"/>
+        android:pathData="M22 4C20.895 4 20 4.895 20 6L20 8L17.5 8C14.480226 8 12 10.480226 12 13.5L12 38.5C12 41.519774 14.480226 44 17.5 44L30.5 44C33.519774 44 36 41.519774 36 38.5L36 13.5C36 10.480226 33.519774 8 30.5 8L28 8L28 6C28 4.895 27.105 4 26 4L22 4zM17.5 11L30.5 11C31.898226 11 33 12.101774 33 13.5L33 38.5C33 39.898226 31.898226 41 30.5 41L17.5 41C16.101774 41 15 39.898226 15 38.5L15 13.5C15 12.101774 16.101774 11 17.5 11zM25.285156 17C25.078156 17 24.875328 17.090813 24.736328 17.257812L18.166016 26.828125C17.989016 27.041125 17.950359 27.339844 18.068359 27.589844C18.185359 27.840844 18.437844 28 18.714844 28L24 28L22.021484 34.109375C21.938484 34.433375 22.091672 34.769875 22.388672 34.921875C22.491672 34.974875 22.604844 35 22.714844 35C22.921844 35 23.124672 34.909188 23.263672 34.742188L29.833984 25.171875C30.011984 24.957875 30.050594 24.662109 29.933594 24.412109C29.815594 24.160109 29.562156 24 29.285156 24L24 24L25.978516 17.890625C26.061516 17.566625 25.908328 17.230125 25.611328 17.078125C25.508328 17.025125 25.395156 17 25.285156 17z"
+        android:fillColor="#5B5B5B" />
 </vector>

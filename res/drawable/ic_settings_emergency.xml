@@ -1,24 +1,9 @@
-<!--
-    Copyright (C) 2021 The Android Open Source Project
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-         http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
--->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0">
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="48"
+    android:viewportHeight="48"
+    android:width="24dp"
+    android:height="24dp">
     <path
-        android:pathData="M20.79,9.23l-2,-3.46l-4.79,2.77l0,-5.54l-4,0l0,5.54l-4.79,-2.77l-2,3.46l4.79,2.77l-4.79,2.77l2,3.46l4.79,-2.77l0,5.54l4,0l0,-5.54l4.79,2.77l2,-3.46l-4.79,-2.77z"
-        android:fillColor="?android:attr/colorPrimary"/>
+        android:pathData="M24 4A4 4 0 0 0 24 12A4 4 0 0 0 24 4zM22.5 14C21.213 14 19.984813 14.554578 19.132812 15.517578C18.997812 15.668578 13.910469 21.691203 12.355469 23.533203C11.820469 24.166203 11.900203 25.112484 12.533203 25.646484C13.166203 26.181484 14.113484 26.10175 14.646484 25.46875C15.866484 24.02575 18.411 21.011812 20 19.132812L20 25.353516L18.029297 35.207031C17.866297 36.019031 18.392078 36.810656 19.205078 36.972656C20.013078 37.143656 20.808703 36.607922 20.970703 35.794922L22.728516 27L25.269531 27L27.029297 35.794922C27.172297 36.507922 27.798047 37 28.498047 37C28.596047 37 28.695922 36.989703 28.794922 36.970703C29.606922 36.808703 30.133703 36.018078 29.970703 35.205078L28 25.353516L28 19.132812C29.429 20.822813 31.668516 23.47375 33.353516 25.46875C33.649516 25.81875 34.074953 26 34.501953 26C34.843953 26 35.18775 25.884484 35.46875 25.646484C36.10175 25.111484 36.181484 24.16425 35.646484 23.53125C33.648484 21.16525 28.98475 15.645234 28.84375 15.490234C27.99275 14.543234 26.774 14 25.5 14L22.5 14zM17.347656 28.421875C10.021656 29.375875 4 31.938 4 36C4 41.252 14.062 44 24 44C33.938 44 44 41.252 44 36C44 31.938 37.978344 29.374875 30.652344 28.421875L31.275391 31.535156C37.366391 32.479156 41 34.491 41 36C41 38.039 34.378 41 24 41C13.622 41 7 38.039 7 36C7 34.491 10.633609 32.480156 16.724609 31.535156L17.347656 28.421875z"
+        android:fillColor="#5B5B5B" />
 </vector>

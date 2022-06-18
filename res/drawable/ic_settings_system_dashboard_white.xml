@@ -1,31 +1,9 @@
-<!--
-  Copyright (C) 2018 The Android Open Source Project
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
-  -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0">
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="48"
+    android:viewportHeight="48"
+    android:width="24dp"
+    android:height="24dp">
     <path
-        android:pathData="M11,7h2v2h-2z"
-        android:fillColor="?android:attr/colorPrimary"/>
-    <path
-        android:pathData="M11,11h2v6h-2z"
-        android:fillColor="?android:attr/colorPrimary"/>
-    <path
-        android:pathData="M2,12C2,6.48 6.48,2 12,2C17.52,2 22,6.48 22,12C22,17.52 17.52,22 12,22C6.48,22 2,17.52 2,12ZM4,12C4,16.41 7.59,20 12,20C16.41,20 20,16.41 20,12C20,7.59 16.41,4 12,4C7.59,4 4,7.59 4,12Z"
-        android:fillType="evenOdd"
-        android:fillColor="?android:attr/colorPrimary"/>
+        android:pathData="M24 4C12.972292 4 4 12.972292 4 24C4 27.275316 4.8627078 30.334853 6.2617188 33.064453L4.09375 40.828125C3.5887973 42.631528 5.3719261 44.41261 7.1757812 43.908203L14.943359 41.740234C17.671046 43.137358 20.726959 44 24 44C35.027708 44 44 35.027708 44 24C44 12.972292 35.027708 4 24 4zM24 7C33.406292 7 41 14.593708 41 24C41 33.406292 33.406292 41 24 41C20.997029 41 18.192258 40.218281 15.744141 38.853516A1.50015 1.50015 0 0 0 14.609375 38.71875L7.2226562 40.78125L9.2851562 33.398438A1.50015 1.50015 0 0 0 9.1503906 32.263672C7.7836522 29.813476 7 27.004518 7 24C7 14.593708 14.593708 7 24 7zM23.976562 12.978516A1.50015 1.50015 0 0 0 22.5 14.5L22.5 26.5A1.50015 1.50015 0 1 0 25.5 26.5L25.5 14.5A1.50015 1.50015 0 0 0 23.976562 12.978516zM24 31A2 2 0 0 0 24 35A2 2 0 0 0 24 31z"
+        android:fillColor="#5B5B5B" />
 </vector>
