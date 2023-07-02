@@ -45,7 +45,7 @@
             android:title="@string/owner_info_settings_title"
             android:summary="@string/owner_info_settings_summary" />
 
-        <co.aospa.framework.preference.SecureSettingMainSwitchPreference
+        <co.aospa.framework.preference.SecureSettingSwitchPreference
             android:key="lockscreen_media_metadata"
             android:title="@string/lockscreen_media_art_title"
             android:defaultValue="false" />
